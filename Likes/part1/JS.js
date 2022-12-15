@@ -1,4 +1,0 @@
-function count() {
-    like.innerText++
-}
-
